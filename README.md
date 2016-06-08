@@ -8,10 +8,10 @@ There is only one keyword which is akk, that informs you about remaining Fair Us
 
 #Requirements
 You must install this packages and editing credentionals.py for the running bot:
-python-telegram-bot
-flask
-lxml
-cssselector
+* python-telegram-bot
+* flask
+* lxml
+* cssselector
 
 # License
 This script created by Tarık Taha Uygun as MIT License.
